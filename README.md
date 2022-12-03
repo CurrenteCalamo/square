@@ -1,6 +1,6 @@
-# square
+# squre and mo
 This is a test task
-## Running the app
+## Runnfdsf the app
 ```bash
 $ npm run test
 ```
