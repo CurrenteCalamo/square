@@ -1,6 +1,8 @@
 interface ComponentDecorator {
 	type: string
 	templete: Function
+	date: stirng
+	vim:number
 }
 function Component(config: ComponentDecorator) {
 	return function <T extends { new (...args: any): object }>(Constructor: T) {
